@@ -2,7 +2,7 @@ docker-lang-r
 =============
 
 SYNOPSIS
-========
+--------
 
 ``` bash
   $ mkdir /opt/R
@@ -11,13 +11,13 @@ SYNOPSIS
 ```
 
 DESCRIPTION
-===========
+-----------
 
 This repository provides a `Dockerfile`, and some libraries.
 
 The `Dockerfile` is used to build container image for the docker.
 
 TODO
-====
+----
 
 - note, Ctrl-P do not work
